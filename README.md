@@ -1,5 +1,5 @@
 # SimplyXorO
-This ancient game X and O. First played in the temples in Japan around 5000BC and brought down from generation to generation.
+The ancient game of X and O, first played in the temples of Japan around 5000BC and brought down from generation to generation.
 Because of this game, wars have been fought, nations have fallen and warriors arise. Now, it is your turn to play.
 
 Requirements:
